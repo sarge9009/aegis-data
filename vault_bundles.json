@@ -1,0 +1,5 @@
+{
+  "basic_fire": ["CROWN_01", "TRAIL_FLAME"],
+  "premium_ice": ["CROWN_02", "TRAIL_ICE"],
+  "vault_shadow": ["TRAIL_SHADOW", "FX_DARKFLARE"]
+}
